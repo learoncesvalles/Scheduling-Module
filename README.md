@@ -1,7 +1,7 @@
 # Scheduling Module
 
 ## Overview
-The Scheduling Module is a core component of the E-Defense System developed for the University of Nueva Caceres. It addresses the institutional need to eliminate manual scheduling conflicts, reduce coordination overhead, and streamline the assignment of defense sessions, rooms, timeslots, and panel members for thesis and capstone research defense proceedings.
+The Scheduling Module is a core component of the E-Defense System developed for the University of Nueva Caceres. It addresses the institutional need to eliminate manual scheduling conflicts, reduce coordination overhead, and streamline the assignment of defense sessions, rooms, timeslots, and panel members for thesis and capstone research defense proceedings .
 
 The module supports the complete defense lifecycle, from student/group project registration and manuscript submission through to schedule creation, conflict detection, panel assignment, and post-scheduling notifications, ensuring that all defense schedules are accurate, conflict-free, and consistent with institutional rules.
 
